@@ -1,0 +1,64 @@
+﻿body {
+    text-align: center;
+    background-color: black;
+    /* add Press Start 2P to all files*/
+    font-family: 'Press Start 2P', Arial, Tahoma, monospace;
+    color: white;
+}
+h1 {
+    font-size: 7vmin;
+    margin-top: 1.5vmin;
+    margin-bottom: 0.5vmin;
+}
+h2 {
+    font-size: 3vmin;
+    margin-top: 1.5vmin;
+    margin-bottom: 0.5vmin;
+}
+
+h3 {
+    font-size: 1.5vmin;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+p {
+    font-size: 1.7vmin;
+    margin-top: 0;
+    margin-bottom: 1vmin;
+}
+canvas {
+    width: 75vmin;
+    height: 75vmin;
+    margin: 1vmin;
+    cursor: none;
+}
+
+table, th, td {
+    padding: 1vmin;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+img {
+    width: 35vmin; 
+    height: 35vmin;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#highscore {
+    font-size: 1.7vmin;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+* {
+    user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
