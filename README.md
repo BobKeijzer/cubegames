@@ -9,4 +9,4 @@ A collection of simple HTML, CSS, and JavaScript games I created for fun and lea
 - **Cube Rush**
 
 ## How to Play
-Open `index.html` in your browser, or visit the GitHub Pages link once deployed. Use the arrow keys to interact within the games.
+Go to: https://bobkeijzer.github.io/Cubegames/ and use the arrow keys to play the games and the spacebar to start over.
